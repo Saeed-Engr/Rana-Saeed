@@ -1,0 +1,43 @@
+<! DOCTYPE HTML >
+  
+
+<html>
+  <head>
+     <Title>  Nested Lists <Title>
+  </head>
+  
+  <body>
+     <h> Computer Science & IT Department </h>
+     <Ol>
+      <li> Samester 1: Computer Science </li>
+       <ul>
+        <li> Intro of C++ Language </li>
+        <li> Database </li>
+        <li> English writing & Communication skill </li>
+        <li> DLD </li>
+        <li> Operating System </li>
+        <li> Islamiat ( optional ) </li>
+       </ul>
+      <li> Samester 2: Computer Science </li>
+       <ul>
+         <li> Sofware Engineering 1 </li>
+         <li> Distributed Database </li>
+         <li> OOP or Jawascripts Languages </li>
+         <li> Data Communication & Networking </li>
+         <li> Algorithm </li>
+         <li> Web Designing </li>
+        </ul>
+     <h1> Freelancing Instant Skills </h1>
+      <li> Five Instant Skills </li>
+       <ul>
+          <li> Transcription </li>
+          <li> PDF File Editing </li>
+          <li> Package Mockup  </li>
+          <li> Social Media Lower Third </li>
+          <li> PDF Converting Files </li>
+        </ul>
+      </Ol>
+    </body>
+</html>  
+        
+  
